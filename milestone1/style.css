@@ -1,0 +1,32 @@
+span{
+    font-size: 7px;
+}
+h1{
+    font-size: 48px;
+    text-align: center;
+}
+h2:hover , h3 :hover{
+    color: red;
+    font-size: 25px;
+    font-weight: 300;
+}
+.red{
+    width: 20%;
+    height: 23px;
+    padding: 20px;
+    margin: 10px;
+    display: inline-block;
+}
+.yellow{
+    display: inline-block;
+    width: 53%;
+}
+img{
+    width: 89%;
+    height: 380px;
+
+}
+.bold{
+    font-weight: 600;
+    height: 30px;
+}
